@@ -1,0 +1,5 @@
+A 0 3 Normal
+B 2 6 AboveNormal
+C 4 4 BelowNormal
+D 6 5 High
+E 8 2 RealTime
