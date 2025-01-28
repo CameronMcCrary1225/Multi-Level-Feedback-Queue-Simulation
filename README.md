@@ -23,13 +23,10 @@ Ensure you have WSL (Windows Subsystem for Linux) or a Linux environment, along 
 Steps
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/username/Multi-Level-Feedback-Queue-Simulation.git
 
 2. Navigate to the project directory:
-   cd Multi-Level-Feedback-Queue-Simulation
 
-3. Run make to compile the project:
-   make
+3. Run make to compile the project in wsl or linux:
 
 4. Once the compilation is complete, run the scheduler:
    ./scheduler
